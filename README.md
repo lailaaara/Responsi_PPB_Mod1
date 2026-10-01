@@ -79,4 +79,4 @@ Aplikasi ini menggunakan Supabase (PostgreSQL) dengan tabel `loans` sebagai beri
 5. Akses API di `http://localhost:3000`.
 
 ## Link Hasil Deployment Vercel
-[https://<nama-proyek-vercel-anda>.vercel.app](https://<nama-proyek-vercel-anda>.vercel.app)
+https://responsi-ppb-mod1-chi.vercel.app/
